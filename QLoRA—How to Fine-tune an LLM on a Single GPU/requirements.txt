@@ -1,0 +1,4 @@
+
+auto-gptq ## doesn't run on mac
+optimum
+bitsandbytes ## can work only for cuda  

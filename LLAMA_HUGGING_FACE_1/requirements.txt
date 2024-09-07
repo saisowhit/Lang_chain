@@ -1,0 +1,6 @@
+
+
+transformers
+huggingfacehub
+torch
+accelerate

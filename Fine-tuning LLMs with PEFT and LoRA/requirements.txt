@@ -1,0 +1,4 @@
+
+bitsandbytes
+torch
+huggingface
